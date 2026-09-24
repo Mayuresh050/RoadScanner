@@ -1,0 +1,13 @@
+# Datasets
+Dataset/
+dataset_merged/
+
+# Training outputs
+runs/
+
+# Large model files
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
